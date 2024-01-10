@@ -20,6 +20,7 @@ The dataset contains the following columns:
 - Weight: The weight of the laptop in kilograms (kg).
 - Price: The price of the laptop.
 
-
+Data is cleaned using SQL and cleaned data is shown below.
+![cleaned_data_samples](https://github.com/nimmigopan/SQL-case-study-on-laptop-dataset/assets/35449494/dcb44618-3c1c-49de-b54d-55b9ed299ff8)
 
 
